@@ -42,12 +42,4 @@ This Python script parses HTML tables containing student and course information,
 
 ## Usage
 
-1. Ensure you have an HTML file containing tables with student and course information.
-2. Update the `path` variable in the script to point to your HTML file.
-3. Run the script:
-
-    ```bash
-    python html_table_scraper.py
-    ```
-
-4. The script will parse the HTML file, extract data, convert it into a CSV file named `output.csv`.
+1. This code cannot be used for every HTML file. It is specifically designed for the SNHU student evaluation.
